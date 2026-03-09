@@ -1,1 +1,2 @@
+## Frontend Developer
 Saya Fatwabith Akbar berperan sebagai Frontend Developer. Bertugas untuk mengembangkan dan mengelola tampilan antarmuka aplikasi agar dapat digunakan dengan baik oleh pengguna. Selain itu, saya juga bertanggung jawab dalam mengimplementasikan desain ke dalam kode, memastikan tampilan responsif di berbagai perangkat, serta berkolaborasi dengan tim untuk mengintegrasikan antarmuka dengan sistem backend yang telah dibuat.
