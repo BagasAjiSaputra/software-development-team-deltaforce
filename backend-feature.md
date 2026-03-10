@@ -1,0 +1,2 @@
+Saya Faizin Hilal berperan sebagai Backend Developer. Bertugas untuk membangun dan mengelola infrastruktur sisi server agar aplikasi berjalan dengan stabil dan efisien. Selain itu, saya bertanggung jawab dalam merancang basis data, mengembangkan API sebagai jembatan komunikasi data, serta memastikan keamanan dan performa sistem. Saya juga berkolaborasi erat dengan tim frontend untuk mengintegrasikan logika bisnis dengan antarmuka pengguna secara mulus.
+
